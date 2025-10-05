@@ -1,0 +1,22 @@
+{
+  "name": "telegrambot",
+  "version": "3.0.0",
+  "description": "Bot Telegram moderasi grup lengkap dengan fitur ban, kick, promote, antilink, dan broadcast premium.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "moderasi",
+    "node",
+    "javascript"
+  ],
+  "author": "Yons",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0" 
+  }
+}
